@@ -1,0 +1,23 @@
+{
+    "name": "Jest_crash_course",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/TaenAhammed/Jest_crash_course.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/TaenAhammed/Jest_crash_course/issues"
+    },
+    "homepage": "https://github.com/TaenAhammed/Jest_crash_course#readme",
+    "devDependencies": {
+        "jest": "^24.8.0"
+    }
+}
